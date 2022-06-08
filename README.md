@@ -1,3 +1,6 @@
+__DEPRECATED__
+This project no longer works with the latest version of torrust. 
+
 # torrust-docker
 
 It's [Torrust](https://torrust.com), in Docker. Cool!
